@@ -22,6 +22,6 @@ Retrieval Augmented Generation (RAG) design pattern will be used for this projec
 A publicly available Text based dataset will be used to build this project.
 ## Demonstration of working as expected
 Evaluation of this system will be done against a set of benchmarks Q&A
-##Programming language
+## Programming language
 Python
 
