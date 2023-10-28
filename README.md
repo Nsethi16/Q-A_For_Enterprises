@@ -24,4 +24,5 @@ A publicly available Text based dataset will be used to build this project.
 Evaluation of this system will be done against a set of benchmarks Q&A
 ## Programming language
 Python
-
+## Work Load
+This project will be done by a single Team member and will easily take more than 20 Hours as it will require not only writing code for this project but optimization for better performance as well
